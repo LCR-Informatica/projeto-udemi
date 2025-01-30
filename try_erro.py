@@ -27,3 +27,5 @@ finally:
     print('fechar arquivo') # sempre é executado após o try
     
 print('Fim')
+
+# edição pelo github
